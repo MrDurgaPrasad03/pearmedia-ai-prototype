@@ -1,3 +1,145 @@
+ Pear Media AI Prototype
+
+ Overview
+
+This project is a web-based AI prototype that demonstrates both text and image workflows using a clean, modern UI.
+
+The application allows users to:
+
+- Enhance text prompts using NLP concepts
+- Generate images from enhanced prompts
+- Upload images and generate styled variations
+
+---
+
+ Features
+
+🔹 Text Workflow
+
+- User enters a basic text prompt
+- System enhances the prompt with better structure and details
+- User can review/edit the enhanced prompt
+- Image is generated based on the approved prompt
+
+---
+
+🔹 Image Workflow
+
+- User uploads an image
+- System analyzes the image (objects, lighting, style)
+- Generates multiple variations of the same image
+
+---
+
+ UI Features
+
+- Modern tab-based interface
+- 🌙 Dark mode toggle
+- ⏳ Loader animations
+- 📱 Responsive design
+- Clean and user-friendly layout
+
+---
+
+Tech Stack
+
+- Frontend: React.js
+- Styling: CSS (Glassmorphism + Gradient UI)
+- Version Control: Git & GitHub
+- Hosting: Vercel
+
+---
+
+🔗 Live Application
+
+👉 https://pearmedia-ai-prototype-rho.vercel.app/
+
+---
+
+📂 GitHub Repository
+
+👉 https://github.com/MrDurgaPrasad03/pearmedia-ai-prototype
+
+---
+
+⚙️ Installation & Setup
+
+1️⃣ Clone the repository
+
+git clone https://github.com/MrDurgaPrasad03/pearmedia-ai-prototype.git
+cd pearmedia-ai-prototype
+
+2️⃣ Install dependencies
+
+npm install
+
+3️⃣ Run the project
+
+npm start
+
+---
+
+🔐 API Integration Note
+
+For demonstration purposes, this project uses mock logic to simulate AI responses.
+
+However, the architecture is designed to support real API integrations such as:
+
+- OpenAI (GPT, DALL·E)
+- Google Gemini
+- Hugging Face models
+
+---
+
+🔄 Workflow Explanation
+
+🔹 Text Flow
+
+Input Prompt → Enhance → User Approval → Image Generation
+
+---
+
+🔹 Image Flow
+
+Upload Image → Analysis → Generate Variations
+
+---
+
+🎥 Demo Video
+
+👉 https://drive.google.com/your-video-link
+
+---
+
+📸 Screenshots
+
+(Add screenshots here if needed)
+
+---
+
+📌 Conclusion
+
+This project demonstrates:
+
+- End-to-end workflow design
+- Prompt engineering concepts
+- UI/UX development
+- API integration architecture
+
+---
+
+⭐ Bonus Features
+
+- Tabs-based UI
+- Dark Mode
+- Loader animation
+- Premium UI design
+
+---
+
+👨‍💻 Author
+
+Durga Prasad
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
